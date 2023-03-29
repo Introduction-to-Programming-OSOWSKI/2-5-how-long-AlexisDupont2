@@ -1,5 +1,5 @@
 def howLong (w):
-    print(len(w))
+    return(len(w))
 
-print( howLong("Peanutbutter"))
+howLong("Peanutbutter")
 howLong("jelly")
